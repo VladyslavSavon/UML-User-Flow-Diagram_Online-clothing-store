@@ -1,5 +1,5 @@
 # UML-User-Flow-Diagram_Online-clothing-store
-The UML User Flow Diagram of an online clothing store
+An UML User Flow Diagram of an online clothing store
 
 ## Short description of the diagram
 
